@@ -59,7 +59,7 @@ numpy==1.26.4
     #   pyopenms
     #   src (pyproject.toml)
     #   streamlit
-packaging==25.0
+packaging==26.3
     # via
     #   altair
     #   matplotlib
